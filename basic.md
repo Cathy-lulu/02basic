@@ -7,7 +7,7 @@
     * [Synchronization between Threads](#synchronizationbetweenthreads)
     * [Inter-Thread Communication](#inter-thread-communication)
     * [Memory Management](#memory-management)
-    * [I/O Device Management](#i-o-device-management)
+    * [I/O Device Management](#io-device-management)
   * [RT-Thread Startup Process](#rt-thread-startup-process)
   * [RT-Thread Program Memory Distribution](#rt-thread-program-memory-distribution)
   * [RT-Thread Automatic Initialization Mechanism](#rt-thread-automatic-initialization-mechanism)
